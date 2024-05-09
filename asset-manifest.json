@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/project-GROUP-e-commerce/static/js/main.e2da177e.js",
-    "static/media/BannerImage.png": "/project-GROUP-e-commerce/static/media/BannerImage.bd599de2791112218457.png",
-    "static/media/logo.png": "/project-GROUP-e-commerce/static/media/logo.b9193c1e9600ae104fc2.png",
-    "static/media/Pay.png": "/project-GROUP-e-commerce/static/media/Pay.aa5b207f1b959f3a24e6.png",
-    "index.html": "/project-GROUP-e-commerce/index.html",
-    "main.e2da177e.js.map": "/project-GROUP-e-commerce/static/js/main.e2da177e.js.map"
+    "main.js": "/Wearable-Technology/static/js/main.f454a62c.js",
+    "static/media/BannerImage.png": "/Wearable-Technology/static/media/BannerImage.bd599de2791112218457.png",
+    "static/media/logo.png": "/Wearable-Technology/static/media/logo.b9193c1e9600ae104fc2.png",
+    "static/media/Pay.png": "/Wearable-Technology/static/media/Pay.aa5b207f1b959f3a24e6.png",
+    "index.html": "/Wearable-Technology/index.html",
+    "main.f454a62c.js.map": "/Wearable-Technology/static/js/main.f454a62c.js.map"
   },
   "entrypoints": [
-    "static/js/main.e2da177e.js"
+    "static/js/main.f454a62c.js"
   ]
 }
